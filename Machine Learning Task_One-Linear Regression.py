@@ -101,7 +101,7 @@ plt.show()
 print("Price Prediction of own value:")
 print(model.predict([[1050,2,2]]))
 
-
+print("OK")
 
 
 
